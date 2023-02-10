@@ -2,8 +2,8 @@
 
 My name is Vinícius Baum from Brazil (🇧🇷). I've been working as FullStack Developer since 2012. Specialist in .Net developing, but currently studying React to, at last, enter AND DOMINATE the mobile world.
 
-- 🔭 I’m currently working on Ewave do Brasil at Tribunal de Justiça do Mato Grosso, as a web developer.
-- 🌱 I’m currently learning Business Intelligence using Qlik Sense AND programming in React through Alura courses.
+- 🔭 I’m currently working on Basis Tecnologia at ANAC, as a web developer.
+- 🌱 I’m currently learning React through Alura courses.
 
 In my free time I like to play soccer ⚽️, to watch movies 🎞️ and series 📺, to read books 📚, to listen to music 🎵, play drums 🥁 and, of course, at weekends have a beer 🍺 (or a dozen! 🍻).
 
